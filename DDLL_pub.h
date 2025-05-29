@@ -1,5 +1,5 @@
 #include <string.h> 
-#define SUCCESS 0
+#define SUCESS 0
 #define FAIL 1
 
 typedef struct DDLL *pDDLL, **ppDDLL;
